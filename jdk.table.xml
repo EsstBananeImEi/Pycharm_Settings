@@ -1,0 +1,176 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.6 (python-venv-zXOP_4w0)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.4" />
+      <homePath value="C:\Users\MeineS\.virtualenvs\python-venv-zXOP_4w0\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.virtualenvs/python-venv-zXOP_4w0/Lib" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/python-venv-zXOP_4w0/Scripts" type="simple" />
+            <root url="file://C:/Deployment/Python3.6.4/Lib" type="simple" />
+            <root url="file://C:/Deployment/Python3.6.4/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/python-venv-zXOP_4w0" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/python-venv-zXOP_4w0/Lib/site-packages" type="simple" />
+            <root url="file://C:/Projekte/S-DAQ/sw-logging" type="simple" />
+            <root url="file://C:/Projekte/S-DAQ/BasisModule" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/python_stubs/120982589" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/Projekte/S-DAQ-FULL">
+        <PATHS_ADDED_BY_USER_ROOT PATH_ADDED_BY_USER="file://C:/Projekte/S-DAQ/BasisModule" />
+        <PATHS_ADDED_BY_USER_ROOT PATH_ADDED_BY_USER="file://C:/Projekte/S-DAQ/sw-logging" />
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.4" />
+      <homePath value="C:\Deployment\Python3.6.4\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Deployment/Python3.6.4/DLLs" type="simple" />
+            <root url="file://C:/Deployment/Python3.6.4/Lib" type="simple" />
+            <root url="file://C:/Deployment/Python3.6.4" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages" type="simple" />
+            <root url="file://C:/Deployment/Python3.6.4/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/python_stubs/757313596" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Pipenv (lokaldebugsystem)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.4" />
+      <homePath value="C:\Users\MeineS\.virtualenvs\lokaldebugsystem-mYCKgSuR\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.virtualenvs/lokaldebugsystem-mYCKgSuR/Lib" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/lokaldebugsystem-mYCKgSuR/Scripts" type="simple" />
+            <root url="file://C:/Deployment/Python3.6.4/Lib" type="simple" />
+            <root url="file://C:/Deployment/Python3.6.4/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/lokaldebugsystem-mYCKgSuR" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/lokaldebugsystem-mYCKgSuR/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/python_stubs/301446050" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/Projekte/lokaldebugsystem" IS_PIPENV="true" />
+    </jdk>
+    <jdk version="2">
+      <name value="Pipenv (modul_interaction_test_projekt)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.4" />
+      <homePath value="C:\Users\MeineS\.virtualenvs\modul_interaction_test_projekt-nkwTWQPj\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.virtualenvs/modul_interaction_test_projekt-nkwTWQPj/Lib" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/modul_interaction_test_projekt-nkwTWQPj/Scripts" type="simple" />
+            <root url="file://C:/Deployment/Python3.6.4/Lib" type="simple" />
+            <root url="file://C:/Deployment/Python3.6.4/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/modul_interaction_test_projekt-nkwTWQPj" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/modul_interaction_test_projekt-nkwTWQPj/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/python_stubs/-2100099527" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/Projekte/modul_interaction_test_projekt" IS_PIPENV="true" />
+    </jdk>
+    <jdk version="2">
+      <name value="Pipenv (payload-serializer)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.4" />
+      <homePath value="C:\Users\MeineS\.virtualenvs\payload-serializer-DvZpvmLn\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.virtualenvs/payload-serializer-DvZpvmLn/Lib" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/payload-serializer-DvZpvmLn/Scripts" type="simple" />
+            <root url="file://C:/Deployment/Python3.6.4/Lib" type="simple" />
+            <root url="file://C:/Deployment/Python3.6.4/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/payload-serializer-DvZpvmLn" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/payload-serializer-DvZpvmLn/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/python_stubs/-1325773888" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/Projekte/S-DAQ Git Repositorys/payload-serializer" IS_PIPENV="true" />
+    </jdk>
+    <jdk version="2">
+      <name value="Pipenv (python-venv)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.4" />
+      <homePath value="C:\Users\MeineS\.virtualenvs\python-venv--YdlCIgE\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.virtualenvs/python-venv--YdlCIgE/Lib" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/python-venv--YdlCIgE/Scripts" type="simple" />
+            <root url="file://C:/Deployment/Python3.6.4/Lib" type="simple" />
+            <root url="file://C:/Deployment/Python3.6.4/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/python-venv--YdlCIgE" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/python-venv--YdlCIgE/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/python_stubs/1444024434" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/Projekte/S-DAQ Git Repositorys/python-venv" IS_PIPENV="true" />
+    </jdk>
+  </component>
+</application>
