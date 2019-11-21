@@ -7,11 +7,6 @@
   <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
-  <action id="CheckinProject">
-    <keyboard-shortcut first-keystroke="ctrl k" />
-    <keyboard-shortcut first-keystroke="alt numpad1" />
-    <keyboard-shortcut first-keystroke="ctrl less" />
-  </action>
   <action id="ChoosePrevSubsequentPropertyValueEditorAction" />
   <action id="ChooseRunConfiguration">
     <keyboard-shortcut first-keystroke="shift alt f10" />
@@ -22,14 +17,10 @@
     <keyboard-shortcut first-keystroke="ctrl divide" />
     <keyboard-shortcut first-keystroke="ctrl number_sign" />
   </action>
-  <action id="Console.Execute.Multiline" />
-  <action id="Console.Jdbc.Execute" />
   <action id="Console.TableResult.CloneRow">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="Console.TableResult.DeleteRows" />
-  <action id="Console.TableResult.Submit" />
-  <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
@@ -37,26 +28,6 @@
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="ctrl d" />
     <keyboard-shortcut first-keystroke="shift alt down" />
-  </action>
-  <action id="EditorSplitLine" />
-  <action id="EditorStartNewLine">
-    <keyboard-shortcut first-keystroke="ctrl enter" />
-  </action>
-  <action id="FileChooser.NewFolder">
-    <keyboard-shortcut first-keystroke="alt insert" />
-  </action>
-  <action id="Git.Branches">
-    <keyboard-shortcut first-keystroke="alt numpad0" />
-  </action>
-  <action id="Git.Pull">
-    <keyboard-shortcut first-keystroke="ctrl alt #10000d6" />
-  </action>
-  <action id="GotoChangedFile" />
-  <action id="GotoClass" />
-  <action id="GotoImplementation">
-    <keyboard-shortcut first-keystroke="ctrl alt b" />
-    <mouse-shortcut keystroke="control alt button1" />
-    <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="Graph.ZoomIn">
     <keyboard-shortcut first-keystroke="add" />
@@ -80,7 +51,6 @@
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="ShowContent" />
-  <action id="ViewSource" />
   <action id="XDebugger.MoveWatchDown" />
   <action id="XDebugger.MoveWatchUp" />
   <action id="ZoomCurrentWindow">
