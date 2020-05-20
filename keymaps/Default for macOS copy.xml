@@ -1,0 +1,9 @@
+<keymap version="1" name="Default for macOS copy" parent="Mac OS X 10.5+">
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="MoveLineDown" />
+  <action id="RearrangeCode">
+    <keyboard-shortcut first-keystroke="meta alt o_with_diaeresis" />
+  </action>
+</keymap>
