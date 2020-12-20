@@ -1,0 +1,10 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <option name="LAST_BUILD_CHECKED" value="PY-201.7846.77" />
+    <option name="LAST_TIME_CHECKED" value="1608471615296" />
+    <pluginHosts>
+      <item value="repository:&quot;http://plugins.example.com:8080/updatePlugins.xml&quot;" />
+    </pluginHosts>
+    <option name="THIRD_PARTY_PLUGINS_ALLOWED" value="true" />
+  </component>
+</application>
