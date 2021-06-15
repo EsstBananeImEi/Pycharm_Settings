@@ -12,11 +12,11 @@
   </highlighting>
   <extensionMap>
     <mapping pattern="HMI_SW_Deploy" />
-    <mapping pattern="HMI_Config_Deploy" />
     <mapping pattern="Rauc_Make_Binary" />
-    <mapping pattern="parameter_converter_qg" />
     <mapping pattern="Rauc_MariHub_Build_initial_master" />
     <mapping pattern="HMI_SW_Deploy_release" />
+    <mapping pattern="parameter_converter_qg" />
+    <mapping pattern="HMI_Config_Deploy" />
     <mapping pattern="" />
     <mapping ext="groovy" />
     <mapping ext="jenkinsfile" />
