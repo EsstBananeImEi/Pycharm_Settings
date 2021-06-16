@@ -27,7 +27,10 @@
       <mapping pattern="setup_logging" type="Python" />
       <mapping pattern="__init__" type="Python" />
       <mapping pattern="signal_file" type="XML" />
+      <removed_mapping ext="csv" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="groovy" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="xls" approved="true" type="Native" />
+      <removed_mapping ext="xlsx" approved="true" type="Native" />
       <mapping ext="kv" type="Kivy" />
     </extensionMap>
   </component>
