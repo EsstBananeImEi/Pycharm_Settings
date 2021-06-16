@@ -1,29 +1,29 @@
 <application>
-  <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping pattern="template_qg" type="JSON" />
       <mapping pattern="e2e_test_automation" type="JavaScript" />
-      <mapping pattern="Run_e2e_smoke_tests" type="JavaScript" />
       <mapping pattern="FE_Build" type="JavaScript" />
+      <mapping pattern="Run_e2e_smoke_tests" type="JavaScript" />
       <mapping pattern="FE_QG_release" type="JavaScript" />
-      <mapping pattern="jenkins" type="PLAIN_TEXT" />
-      <mapping pattern="Payload_Serializer_Build" type="PLAIN_TEXT" />
-      <mapping pattern="db_path" type="PLAIN_TEXT" />
-      <mapping pattern="Pipfile" type="PLAIN_TEXT" />
-      <mapping pattern="Build_Tool_PyInstaller" type="PLAIN_TEXT" />
-      <mapping pattern="key" type="PLAIN_TEXT" />
-      <mapping pattern="groovy" type="PLAIN_TEXT" />
-      <mapping pattern="data-handler-1479151549774677" type="PLAIN_TEXT" />
-      <mapping pattern="payload_serializer_QG" type="PLAIN_TEXT" />
-      <mapping pattern="payload_file_1" type="PLAIN_TEXT" />
       <mapping pattern="Payload_Serializer_Deploy" type="PLAIN_TEXT" />
+      <mapping pattern="payload_file_1" type="PLAIN_TEXT" />
+      <mapping pattern="Payload_Serializer_Build" type="PLAIN_TEXT" />
+      <mapping pattern="data-handler-1479151549774677" type="PLAIN_TEXT" />
+      <mapping pattern="Build_Tool_PyInstaller" type="PLAIN_TEXT" />
+      <mapping pattern="payload_serializer_QG" type="PLAIN_TEXT" />
+      <mapping pattern="jenkins" type="PLAIN_TEXT" />
+      <mapping pattern="Pipfile" type="PLAIN_TEXT" />
+      <mapping pattern="groovy" type="PLAIN_TEXT" />
+      <mapping pattern="key" type="PLAIN_TEXT" />
+      <mapping pattern="db_path" type="PLAIN_TEXT" />
       <mapping ext="executable" type="PLAIN_TEXT" />
-      <mapping ext="db-journal" type="PLAIN_TEXT" />
-      <mapping ext="snmprec" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="mib" type="PLAIN_TEXT" />
+      <mapping ext="snmprec" type="PLAIN_TEXT" />
+      <mapping ext="db-journal" type="PLAIN_TEXT" />
       <mapping pattern="setup_logging" type="Python" />
       <mapping pattern="__init__" type="Python" />
       <mapping pattern="signal_file" type="XML" />
