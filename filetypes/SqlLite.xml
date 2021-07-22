@@ -11,6 +11,5 @@
   </highlighting>
   <extensionMap>
     <mapping pattern="*db" />
-    <mapping ext="sqlite3" />
   </extensionMap>
 </filetype>

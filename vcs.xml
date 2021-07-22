@@ -1,12 +1,16 @@
 <application>
-  <component name="GitRememberedInputs">
-    <option name="visitedUrls">
+  <component name="Vcs.Log.App.Settings">
+    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
+    <option name="COLUMN_ID_ORDER">
       <list>
-        <UrlAndUserName>
-          <option name="url" value="http://spygit01" />
-          <option name="userName" value="meines" />
-        </UrlAndUserName>
+        <option value="Default.Root" />
+        <option value="Default.Subject" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
       </list>
     </option>
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
   </component>
 </application>
