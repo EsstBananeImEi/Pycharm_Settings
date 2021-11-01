@@ -15,9 +15,9 @@
     <mapping pattern="HMI_SW_Deploy_release" />
     <mapping pattern="Rauc_Make_Binary" />
     <mapping pattern="Rauc_MariHub_Build_initial_master" />
-    <mapping pattern="parameter_converter_qg" />
-    <mapping pattern="HMI_Config_Deploy" />
     <mapping pattern="" />
+    <mapping pattern="HMI_Config_Deploy" />
+    <mapping pattern="parameter_converter_qg" />
     <mapping ext="groovy" />
     <mapping ext="jenkinsfile" />
   </extensionMap>
